@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/sodiq-agunbiade5/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="mailto:sodiq.agunbiade,4@gmail.com" target="_blank">
+<a href="mailto:sodiq.agunbiade.4@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
   <img src="https://gpvc.arturio.dev/Sodiq-123" />
