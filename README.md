@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <h1 align='center'>Hi there 👋🏾, I'm Sodiq Agunbiade</h1> 
-  <p align="center"> I am a Software Developer focused on (Python/Flask, Machine Learning and Deep Learning)
+  <p align="center"> I am a Software Engineer focused on (Python/Flask, Machine Learning and Deep Learning)
 </p>
 
 <p align='center'>
